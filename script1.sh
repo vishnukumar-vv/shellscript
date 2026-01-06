@@ -5,4 +5,4 @@ date
 echo
 df -h
 echo "-------OS details------"
-uname -a
+uname -r
