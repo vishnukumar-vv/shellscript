@@ -6,3 +6,5 @@ echo
 df -h
 echo "-------OS details------"
 uname -r
+echo "----end----"
+
