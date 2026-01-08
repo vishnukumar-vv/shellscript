@@ -2,7 +2,7 @@
 
 echo "===== Disk Usage Report ====="
 date
-echo
+echo "--------------------------"
 df -h
 echo "-------OS details------"
 uname -r
